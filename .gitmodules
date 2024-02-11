@@ -1,0 +1,3 @@
+[submodule "themes/hugo-blog-awesome-fork"]
+	path = themes/hugo-blog-awesome-fork
+	url = git@github.com:charlesastokes/hugo-blog-awesome-fork.git
