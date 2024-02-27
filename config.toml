@@ -32,6 +32,11 @@ disqusShortname = ''
 		endLevel = 4 # ToC ends at H4
 		ordered = false # generates <ul> instead of <ol>
 
+[imaging]
+  quality = 100
+  resampleFilter = 'Lanczos'
+
+
 ############################## English language ################################
 [Languages.en-us]
   languageName = "English"
